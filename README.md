@@ -1,11 +1,11 @@
 # Certifications
 
-1. Magento 2 Certified Professional Developer
-2. MAGENTO 2 Certified ASSOCIATE Developer
-3. MAGENTO 2 Certified PROFESSIONAL FRONT END Developer
-4. Magento 2 Certified Solution Specialist
+1. Magento 2 Certified PROFESSIONAL Developer
+2. Magento 2 Certified ASSOCIATE Developer
+3. Magento 2 Certified PROFESSIONAL Front End Developer
+4. Magento 2 Certified SOLUTION Specialist
 
-## 1. Magento 2 Certified Professional Developer
+## 1. Magento 2 Certified PROFESSIONAL Developer
 
 ### 1. Exam details
 + 60 Multiple Choice items
@@ -36,7 +36,11 @@
 10.  5% Customer Management                               (3 questions)
       - My account, customer extension attributes, address, customer group, tax
 
+## 2. Magento 2 Certified ASSOCIATE Developer
 
+## 3. Magento 2 Certified PROFESSIONAL Front End Developer
+
+## 4. Magento 2 Certified SOLUTION Specialist
 
 
 # 2. Resources
