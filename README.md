@@ -7,13 +7,13 @@
 
 ## 1. Magento 2 Certified PROFESSIONAL Developer
 
-### 1. Exam details
+### 1.1. Exam details
 + 60 Multiple Choice items
 + 90 minutes to complete the exam
 + Magento Open Source (2.2) and Magento Commerce (2.2)
 + All exams are administered by Kryterion - Academy of Networking LANIT
 
-### 2. Syllabus Coverage Details
+### 1.2. Syllabus Coverage Details
 1. 18% Magento Architecture and Customization Techniques  (11 questions)
       - Modules, config, di, plugins, events, cron, cli, cache
 2. 12% Request Flow Processing                            (7 questions)
